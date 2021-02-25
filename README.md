@@ -1,7 +1,7 @@
 ## About Me
 탐구하고, 분석하는 것을 좋아합니다.
 
-## Interest
+## Interests
 
 - Statistical Analysis
 
@@ -21,7 +21,7 @@
 
   SQL
 
-## Project
+## Projects
 
 - Lpoint recommandation system (2019.10 ~ 2019.12)
 
@@ -31,6 +31,17 @@
   
 - Singer Translation (2020.12~)
 
+## Careers
+
+- Bachelor's degree in Department of Statistics, SKKU (2014.03~2018.08) 
+
+- Master's degree in Department of Statistics, SKKU (2018.09~2020.08)
+
+- SK C&C (2021.01~)
+
+## Contact
+
+- dbwjd159753@daum.net
 
 
 
