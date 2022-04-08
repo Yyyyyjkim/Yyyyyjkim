@@ -1,5 +1,4 @@
 ## About Me
-탐구하고, 분석하는 것을 좋아합니다.
 
 ## Interests
 
@@ -9,7 +8,6 @@
 
 - Deep learning
 
-- Recommendation System
 
 ## Skills
 
